@@ -1,0 +1,81 @@
+img {
+    width: 100%;
+}
+#photo1{
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.range2 {
+    width:100%;
+}
+
+
+#photo2 {
+    display:inline-block;
+    width: 49.4%;
+    margin: 0 auto;
+
+
+}
+
+#photo3 {
+    display:inline-block;
+    width: 49.4%;
+    margin: 0 auto;
+
+}
+
+
+#photo4 {
+    display:inline-block;
+    width: 32.3%;
+    margin: 0 auto;
+
+}
+
+#photo5 {
+    display:inline-block;
+    width: 32.3%;
+    margin: 0 auto;
+
+}
+
+#photo6 {
+    display:inline-block;
+    width: 32.3%;
+    margin: 0 auto;
+
+}
+
+@font-face {
+    font-family: "goodtimes";
+    src: url("../fonts/goodtimesrg.woff2") format("woff2");
+
+    font-family: "panda";
+    src: url("../fonts/BabyPanda.woff2") format("woff2");
+
+}
+
+
+.titre1 {
+    text-align: center;
+   font-family: "goodtimes";
+
+}
+
+.description {
+    text-align: center;
+    font-family: "panda";
+
+}
+
+
+
+
+
+
+
+
+
